@@ -1,0 +1,23 @@
+.carrégris, .carréblanc, .carréorange, .carréjaune, .carrénoir {
+    padding-bottom: 8%;                /*on defini la taille des case*/
+ }
+ 
+ .carrégris {
+    background-color: #4d4c4c;
+ }
+ 
+ .carréblanc {
+    background-color: #ffffff;
+ }
+ 
+ .carréorange {
+    background-color: #f06204;
+ }
+ 
+ .carréjaune {
+    background-color: #cea70b;
+ }
+ 
+ .carrénoir {
+    background-color: #000000;
+ }
